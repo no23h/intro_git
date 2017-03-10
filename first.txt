@@ -6,3 +6,4 @@ gitの練習をしていきます。
 確認テスト
 
 ・git rm
+・git status
